@@ -84,9 +84,10 @@ Packages/
 # These ship with Unreal Engine / were obtained from the Marketplace (Fab)
 # and must not be redistributed as raw assets. Re-add them from the
 # launcher / Fab to run the project with full art.
+# NOTE: Content/UnrealLearning is NOT third-party — it is my own gameplay
+# work (interaction system, UI, levels) and is intentionally tracked.
 Content/StarterContent/
 Content/AdvancedVillagePack/
-Content/UnrealLearning/
 
 # Local archives / backups
 *.rar
